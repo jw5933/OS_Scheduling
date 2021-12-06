@@ -30,4 +30,4 @@ To run the program use the following:
 
 example: 
 for FIFO		./lab2 2 1 3 2 3 2 3 2 3 2
-for RR 		./lab2 2 2 2 3 2 3 2 3 2 3 2
+for RR		./lab2 2 2 2 3 2 3 2 3 2 3 2
